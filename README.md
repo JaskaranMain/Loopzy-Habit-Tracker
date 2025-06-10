@@ -1,5 +1,4 @@
-# Loopzy-Habit-Tracker
-# 🔁 Loopzy – AI-Powered Habit Tracker by BeRown
+# Loopzy – AI-Powered Habit Tracker by BeRown
 
 **Loopzy** is a minimal yet powerful habit tracker web app that helps users build habits and training routines using streaks, gamification, and AI support. Inspired by the viral loop concept of Snapchat streaks, Loopzy keeps you accountable, consistent, and motivated — one day at a time.
 
